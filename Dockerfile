@@ -1,4 +1,4 @@
-FROM ruby:3.1.2-alpine
+FROM ruby:3.2.0-alpine
 
 # Set environment vars
 ENV BUNDLER_VERSION=2.3.26
